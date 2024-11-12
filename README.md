@@ -15,7 +15,7 @@ This project provides a Python class (`tgm.py`) for interacting with the Telegra
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/telegram-bot.git](https://github.com/EiadurRahman/telegram_bot_class
+    git clone [https://github.com/EiadurRahman/telegram_bot_class](https://github.com/EiadurRahman/telegram_bot_class)
     cd telegram_bot_class
     ```
 
