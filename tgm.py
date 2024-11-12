@@ -2,7 +2,7 @@ import requests
 import os
 import re
 import json
-import modules.handle_json as handle_json
+import handle_json
 
 
 class Bot:
